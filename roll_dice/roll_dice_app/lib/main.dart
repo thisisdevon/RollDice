@@ -6,7 +6,7 @@ void main() {
 
 String getNumber()
 {
-  return "7";
+  return "3";
 }
 
 class MainApp extends StatelessWidget {
