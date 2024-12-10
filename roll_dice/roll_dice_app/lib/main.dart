@@ -16,7 +16,7 @@ class MainApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return const MaterialApp(
       home: Scaffold(
-        body: GradientContainer(begin: Colors.purple, end: Colors.deepPurple,),
+        body: GradientContainer.purple(),
       ),
     );
   }
